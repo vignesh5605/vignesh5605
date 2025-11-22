@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Vignesh R
+# 👋 Hey, I'm Vignesh 
 
 I'm a B.Tech CSE student passionate about tech, content creation, and building real-world projects.  
 I focus on learning fast, solving problems, and delivering clean, research-backed work.
